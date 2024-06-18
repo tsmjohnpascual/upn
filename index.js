@@ -19,6 +19,9 @@ function halvingToLimit(num, limit) {
 }
 
 
-// Task 4
+// Task 4: Filter an array to have all values above a given number removed
+function removeGreater(arr, limit) {
+  return arr.filter((num) => num <= limit);
+}
 
 // Task 5
