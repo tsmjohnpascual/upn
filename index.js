@@ -3,7 +3,10 @@ function halveNumber(num) {
   return num / 2;
 }
 
-// Task 2
+// Task 2: multiply and add 3
+function multiplyAndAdd3(num1, num2) {
+  return (num1 * num2) + 3;
+}
 
 // Task 3
 
